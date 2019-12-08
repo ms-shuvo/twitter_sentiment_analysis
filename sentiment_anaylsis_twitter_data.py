@@ -139,5 +139,5 @@ if __name__ == '__main__':
     plt.plot(df['date'],df['sentiment'])
     plt.show()
 
-    print(df.head(100))
+    print(df.head(10))
 
